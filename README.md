@@ -35,7 +35,7 @@ In Arduino IDE, go to **Sketch > Include Library > Manage Libraries** and instal
 
 ### 4. Upload
 
-1. Open `beszel_agent.ino`
+1. Open `app/app.ino`
 2. Click Upload
 
 ## Configuration
